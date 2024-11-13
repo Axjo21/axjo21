@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+My name is Axel, otherwise known as axjo21. Nice to meet you!
 
 <!--
 **Axjo21/axjo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
